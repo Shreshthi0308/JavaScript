@@ -1,7 +1,7 @@
 //with is used to update the given array safely without
 //modifying the original array.
 
-let name=['mahesh','ashok','gav'];
+let name=['shreshthi','vinayak','bhopate'];
 console.log(name);
-let name2=name.with(2,'gavale');
+let name2=name.with(2,'bhopatee');
 console.log(name2);
